@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 public class Dropdown {
     public static void main(String[] args) {
         // create the window
-        JFrame frame = new JFrame("Student Multi-Dropdown Experiment");
+        JFrame frame = new JFrame("Dropdown Experiment");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(400, 300);
 
